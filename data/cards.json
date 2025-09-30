@@ -29,24 +29,13 @@
       "authors": "Ein Projekt von Kian, Till, Mark und Danush.",
       "url": "https://wienerkongress.netlify.app/",
       "page": "home",
-      "status": "in_arbeit",
+      "status": "fertig",
       "subtitle": "Ein kurzer Überblick zum Wiener Kongress",
       "title": "Wiener Kongress",
       "is_published": true,
       "type": "website",
       "tag": "geschichte",
       "id": "Wienerkongress"
-    },
-    {
-      "url": "https://chatbbc.netlify.app/",
-      "page": "home",
-      "status": "fertig",
-      "subtitle": "Eine Hochentwickelte Ai aus Azerbaidjan",
-      "title": "ClosedAi - ChatBBC",
-      "is_published": true,
-      "type": "website",
-      "tag": "informatik",
-      "id": "Closedai"
     },
     {
       "url": "https://stochastosino.netlify.app/#",
@@ -71,15 +60,13 @@
       "id": "aiworld"
     },
     {
-      "url": "https://physikgk.netlify.app/",
       "page": "home",
-      "status": "in_arbeit",
-      "subtitle": "Alle Themen des Physik Gk´s in der Q1",
-      "title": "Physik Q1",
+      "status": "fertig",
       "is_published": true,
-      "type": "website",
-      "tag": "physik",
-      "id": "physik23432"
+      "id": "Sowitaskcard",
+      "title": "SoWiLK Taskcard",
+      "url": "https://schiller-schule.taskcards.app/#/board/b388c79d-61e1-4218-96f8-bd5f481c0256/view?token=0ff27cbd-a07c-443d-b21c-94aff1f3d37e",
+      "tag": "sowi"
     }
   ]
 }
