@@ -3,19 +3,19 @@
     {
       "authors": "Ein Projekt von Kian, Basit und Kamil.",
       "created_at": "2025-09-29T01:18:00+02:00",
-      "url": "https://philexikon.netlify.app/",
+      "url": "https://philexikonx.netlify.app/",
       "page": "home",
       "status": "in_arbeit",
       "subtitle": "Ein Lexikon für bekannte Philosophen.",
       "title": "Philexikon",
-      "is_published": false,
+      "is_published": true,
       "type": "website",
       "tag": "philosophie",
       "id": "Philexikon1244"
     },
     {
       "authors": "Ein Projekt von Kian, Basit und Mark.",
-      "url": "https://pieterbruegel.netlify.app/",
+      "url": "https://pieterbruegelx.netlify.app/",
       "page": "home",
       "status": "in_arbeit",
       "subtitle": "Biografie, Kunstwerke und Hintergründe des Renaissance- Künstlers",
@@ -27,7 +27,7 @@
     },
     {
       "authors": "Ein Projekt von Kian, Till, Mark und Danush.",
-      "url": "https://wienerkongress.netlify.app/",
+      "url": "https://wienerkongressx.netlify.app/",
       "page": "home",
       "status": "fertig",
       "subtitle": "Ein kurzer Überblick zum Wiener Kongress",
@@ -38,7 +38,7 @@
       "id": "Wienerkongress"
     },
     {
-      "url": "https://stochastosino.netlify.app/#",
+      "url": "https://stochastosinox.netlify.app/#",
       "page": "home",
       "status": "in_arbeit",
       "subtitle": "Stochastik basierte Mathematik Spiele",
