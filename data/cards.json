@@ -70,13 +70,13 @@
     },
     {
       "page": "home",
-      "status": "coming_soon",
+      "status": "fertig",
       "is_published": true,
       "id": "huecoai",
       "title": "HuecoAI",
       "subtitle": "HuecoAI - Mundo Chatbot 1.0",
       "authors": "Kian",
-      "url": "www.huecoai.de"
+      "url": "https://huecoai.de/"
     }
   ]
 }
