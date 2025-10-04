@@ -67,6 +67,16 @@
       "title": "SoWiLK Taskcard",
       "url": "https://schiller-schule.taskcards.app/#/board/b388c79d-61e1-4218-96f8-bd5f481c0256/view?token=0ff27cbd-a07c-443d-b21c-94aff1f3d37e",
       "tag": "sowi"
+    },
+    {
+      "page": "home",
+      "status": "coming_soon",
+      "is_published": true,
+      "id": "huecoai",
+      "title": "HuecoAI",
+      "subtitle": "HuecoAI - Mundo Chatbot 1.0",
+      "authors": "Kian",
+      "url": "huecoai.de"
     }
   ]
 }
