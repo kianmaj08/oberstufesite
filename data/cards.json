@@ -27,7 +27,7 @@
     },
     {
       "authors": "Ein Projekt von Kian, Till, Mark und Danush.",
-      "url": "https://wienercongresshueco.netlify.app/",
+      "url": "https://wienerkongress.vercel.app/",
       "page": "home",
       "status": "fertig",
       "subtitle": "Ein kurzer Überblick zum Wiener Kongress",
@@ -43,7 +43,7 @@
       "status": "in_arbeit",
       "subtitle": "Stochastik basierte Mathematik Spiele",
       "title": "Stochastosino Beta",
-      "is_published": true,
+      "is_published": false,
       "type": "website",
       "tag": "informatik",
       "id": "Stochastosino"
