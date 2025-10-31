@@ -43,7 +43,7 @@
       "status": "in_arbeit",
       "subtitle": "Stochastik basierte Mathematik Spiele",
       "title": "Stochastosino Beta",
-      "is_published": false,
+      "is_published": true,
       "type": "website",
       "tag": "informatik",
       "id": "Stochastosino"
