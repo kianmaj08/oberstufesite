@@ -87,6 +87,16 @@
       "subtitle": "Demo Version",
       "url": "https://gegnews.vercel.app/",
       "created_at": "2026-01-18T04:34:00+01:00"
+    },
+    {
+      "page": "home",
+      "status": "fertig",
+      "is_published": true,
+      "id": "Geschichte1848",
+      "title": "1848 Aus der Sicht von anderen Ländern",
+      "authors": "Kian, Danush, Mark, Simon und Till",
+      "url": "https://die1848revolution.lovable.app/",
+      "tag": "geschichte"
     }
   ]
 }
